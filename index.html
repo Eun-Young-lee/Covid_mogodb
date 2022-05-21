@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ireland Covid19 Stats</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="shortcut icon" href="./img/corona.png">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+    integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <script src="./index.js" defer></script>
+  <script src="./map.js" defer></script>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFjttKLQVfgWVxfekDmKlIuzMcxuzAvPY&callback=initMap&region=IE"
+    defer>
+    </script>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
+    </script>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="container1">
+      <img src="./img/corona.gif" style="max-width: 5%; height: auto;">
+      <h1 class="title"> COVID-19 Tracker </h1>
+    </div>
+    <section class="stats">
+      <div class="part1">
+        <h2 class="subtitle">The latest statistics regarding the "Corona Virus" in Ireland</h2>
+        <h3 id="updated"> </h3>
+        <div class="card-group">
+          <div class="card border-warning mx-3" style="border-radius: 10px; border: 5px solid">
+            <div class="card-body text-warning">
+              <h5 class="card-title" style="font-size: 25px">Total Cases</h5>
+              <p class="card-text" id="cases"> </p>
+            </div>
+          </div>
+
+          <div class="card border-danger mx-3" style="border-radius: 10px; border: 5px solid">
+            <div class="card-body text-danger">
+              <h5 class="card-title" style="font-size: 25px">Total Deaths</h5>
+              <p class="card-text" id="deaths"> </p>
+            </div>
+          </div>
+
+          <div class="card border-success mx-3" style="border-radius: 10px; border: 5px solid">
+            <div class="card-body text-success ">
+              <h5 class="card-title" style="font-size: 25px">Total Recovered</h5>
+              <p class="card-text" id="recovered"> </p>
+            </div>
+          </div>
+
+          <div class="card border-primary mx-3" style="border-radius: 10px; border: 5px solid">
+            <div class="card-body text-primary">
+              <h5 class="card-title" style="font-size: 25px">Total Vaccinated </h5>
+              <p class="card-text" id="vaccinated"> </p>
+            </div>
+          </div>
+        </div> v
+        <h1 class="footer"> Information provided by "https://corona.lmao.ninja"</a></h1>
+      </div>
+  </div>
+  </section>
+  <div class="container-fluid">
+    <div class="search">
+      <section class="part2">
+        <div class="title-box">
+          <h1 class="search__title">
+            <img src="./img/vaccine.png">
+            COVID-19 Vaccine Booster Dose<br>Walk-in clinics
+          </h1>
+        </div>
+
+        <div class="container2">
+          <div class="search__main">
+            <form class="search__form">
+              <div class="search__option">
+                <select name="county" id="" class="search__county">
+                  <option value="">Select</option>
+                  <option value="Carlow">Carlow</option>
+                  <option value="Cavan">Cavan</option>
+                  <option value="Clare">Clare</option>
+                  <option value="Cork">Cork</option>
+                  <option value="Donegal">Donegal</option>
+                  <option value="Dublin">Dublin</option>
+                  <option value="Galway">Galway</option>
+                  <option value="Kerry">Kerry</option>
+                  <option value="Kildare">Kildare</option>
+                  <option value="Kilkenny">Kilkenny</option>
+                  <option value="Laois">Laois</option>
+                  <option value="Leitrim">Leitrim</option>
+                  <option value="Limerick">Limerick</option>
+                  <option value="Longford">Longford</option>
+                  <option value="Louth">Louth</option>
+                  <option value="Mayo">Mayo</option>
+                  <option value="Meath">Meath</option>
+                  <option value="Monaghan">Monaghan</option>
+                  <option value="Offanly">Offanly</option>
+                  <option value="Roscommon">Roscommon</option>
+                  <option value="Sligo">Sligo</option>
+                  <option value="Tipperary">Tipperary</option>
+                  <option value="Waterford">Waterford</option>
+                  <option value="Westmeath">Westmeath</option>
+                  <option value="Wexford">Wexford</option>
+                  <option value="Wicklow">Wicklow</option>
+                </select>
+                <select name="centreName" id="" class="search__centreName"></select>
+                <button type="button" class="search__button" aria-label="Search">
+                  <i class="fas fa-search"></i>
+              </div>
+              <!--search__option-->
+
+              </button>
+            </form>
+            <ul class="search__result"></ul>
+          </div>
+          <!--search_main-->
+          <div class="search__map"></div>
+        </div>
+        <!--container-->
+    </div>
+    <!--part2-->
+    <div class="board">
+      <div class="board-section">
+        <div style="display:inline-block">
+          <img src="./img/speak.png" style="max-width: 20%; height: auto; ">
+          <div style="display:inline-block;">
+            <h2>NOTICE BOARD</h2>
+          </div>
+        </div>
+        <div class="thread-section">
+        </div>
+
+        <div class="container">
+          <form class="form-section">
+            <div class="mb-3">
+              <label class="form-label">Title</label>
+              <input type="text" class="form-control" placeholder="title" id="inputTitle" />
+
+              <div class="form-text"></div>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Content</label>
+              <textarea id="inputContent" placeholder="write" class="form-control" rows="10" cols="30"></textarea>
+            </div>
+            <button type="submit" id="submitButton" class="btn btn-primary mb-4">
+              Send
+            </button>
+          </form>
+        </div>
+      </div>
+
+    </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

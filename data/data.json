@@ -1,0 +1,117 @@
+{
+  "details": [
+    {
+      "county": "Carlow",
+      "1": "Carlow Vaccination Centre"
+    },
+    {
+      "county": "Cavan",
+      "2": "Cavan Vaccination Centre"
+    },
+    {
+      "county": "Clare",
+      "3":"Ennis Vaccination Centre - West County Hotel",
+      "4": "Ennis Hospital Vaccination Centre"
+    },
+    {
+      "county": "Cork",
+      "5": "Cork Vaccination Centre - City Hall",
+      "6": "Bantry Vaccination Centre"
+    },
+    {
+      "county": "Donegal",
+      "7": "Letterkenny Vaccination Centre"
+    },
+    {
+      "county": "Dublin",
+      "8": "Citywest Vaccination Centre",
+      "9 ": "UCD Vaccination Centre (No walk-in clinics",
+      "10": "Croke Park Vaccination Centre",
+      "11": "Swords Vaccination Centre",
+      "12": "Richmond Barracks Vaccination Centre"
+    },
+    {
+      "county": "Galway",
+      "13": "Galway Racecourse Vaccination Centre"
+    },
+    {
+      "county": "Kerry",
+      "14": "Kerry Vaccination Centre"
+    },
+    {
+      "county": "Kildare",
+      "15": "Kildare Vaccination Centre - Punchestown Racecourse"
+    },
+    {
+      "county": "Kilkenny",
+      "16": "Kilkenny Vaccination Centre - Cillin Hill Conference Centre"
+    },
+    {
+      "county": "Laois",
+      "17": "Laois Vaccination Centre"
+    },
+    {
+      "county": "Leitrim",
+      "18": "Carrick on Shannon Vaccination Centre"
+    },
+    {
+      "county": "Limerick",
+      "19": "Limerick Vaccination Centre"
+    },
+    {
+      "county": "Longford",
+      "20": "Longford Vaccination Centre - Clonguish GAA Club"
+    },
+    {
+      "county": "Louth",
+      "21": "Dundalk Vaccination Centre - Fairways Hotel"
+    },
+    {
+      "county": "Mayo",
+      "22": "Breaffy House Resort Vaccination Centre"
+    },
+    {
+      "county": "Meath",
+      "23": "Navan Vaccination Centre - Simonstown GAA Club",
+      "24": "Fairyhouse Racecourse Vaccination Centre"
+    },
+    {
+      "county": "Monaghan",
+      "25": "Monaghan Vaccination Centre - Glencarn Hotel"
+    },
+    {
+      "county": "Offanly",
+      "26": "Offaly Vaccination Centre"
+    },
+    {
+      "county": "Roscommon",
+      "27": "Roscommon Vaccination Centre"
+    },
+    {
+      "county": "Sligo",
+      "28": "Sligo Vaccination Centre"
+    },
+    {
+      "county": "Tipperary",
+      "29": "Nenagh Vaccination Centre",
+      "30": "Clonmel Vaccination Centre"
+    },
+    {
+      "county": "Waterford",
+      "31": "Waterford Vaccination Centre - WIT Arena"
+    },
+    {
+      "county": "Westmeath",
+      "32": "Westmeath Community Vaccination Centre"
+    },
+    {
+      "county": "Wexford",
+      "33": "Gorey Vaccination Centre",
+      "34": "Enniscorthy Vaccination Centre"
+    },
+    {
+      "county": "Wicklow",
+      "35": "Greystones Vaccination Centre - Shoreline Leisure Centre"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,200&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;   
+}
+
+body {
+   background-color:white;
+    position: relative;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+  }
+
+html {
+  background-color:#343d46;
+	height: 100%;
+	width: 100%;
+}
+
+h1 {	
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	text-align: center;	
+  margin-top: 15x;
+	font-size: 300%;
+	color: white;
+}
+h2 {	
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 200%;
+	color: white;
+}
+.stats{
+      background-color: #343d46;
+      margin-left: 30px;
+      margin-top: 20px;
+      margin-right: 5%;     
+      width: 97%;
+      height: 400px;   
+      border:5px solid white;
+      border-radius: 15px;   
+
+  }
+
+.container1{
+	display: flex;
+	justify-content: center;	
+  justify-items: center;
+  }
+
+.corona{
+display: inline-block;
+vertical-align: middle; 
+margin-top: 9px;
+text-align: center;
+height:5%;
+object-fit: contain;
+}
+
+.title {	
+	display: inline-block; 
+	padding-top:9px ;
+  justify-content: center;
+	vertical-align: middle;	
+    text-align: center;
+	color: black;
+  }  
+
+.subtitle {
+	padding: 10px;
+	font-size: 150%;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-size: 90%;
+	font-weight: 500;
+	padding-top: 0%;
+	color: white;
+}
+
+div {
+	padding: 15px;
+}
+
+.card-group{
+	padding-top: 30px;
+	height: 250%;	
+}
+
+ .card-title {
+	text-align: center;	
+}
+
+.card-text {
+	text-align: center;
+	font-size: 140%;
+	font-weight: 500;
+}
+
+
+.footer {
+	font-family: 'Roboto', sans-serif;
+	bottom: 0;
+	font-size: 100%;
+	margin-top: 3px;
+} 
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -0.04em;
+}
+
+button,
+select {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -0.04em;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+
+.home {
+  height: 100vh;
+  background-color: #d9f0ff;
+  color: #0e0e52;
+}
+
+.home .container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home__title {
+  font-weight: 400;
+  line-height: 3;
+  text-align: center;
+  animation: show 1000ms 100ms;
+}
+
+.division {
+  width: 50px;
+  height: 2px;
+  margin: 60px 0;
+  background-color: #d1d1d1;
+  animation: show 1200ms 100ms;
+}
+
+.home__move {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  animation: show 1400ms 100ms;
+  cursor: pointer;
+}
+
+.double-down {
+  transform: translateY(10px);
+  animation: move 700ms 100ms infinite alternate;
+}
+
+/* search */
+.search {
+  height: 100vh;
+  background-color: #343d46;
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-right: 5%;
+  width: 97%;   
+  border:2px solid white;
+  border-radius: 15px;      
+  }
+  
+.search .container2 {
+  height: 450px;  
+}
+
+.search__title {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 50px;
+  background-color: #fff;
+  color: #0e0e52;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.search__form {
+  margin: 0 20px 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.search__option {
+  display: flex;
+  flex-direction: column;
+}
+
+.search__county  {
+  margin-bottom: 12px;
+  height: 50px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aed1e6;
+}
+
+.search__centreName  {
+  margin-bottom: 12px;    
+  height: 50px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aed1e6;
+}
+
+.search__button {
+  padding: 8px 20px;
+  height: 50px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aed1e6;
+  cursor: pointer;
+}
+
+.search__button:hover {
+  filter: brightness(95%);
+}
+
+.search__button:active {
+  filter: brightness(90%);
+}
+
+.search__result {
+  display: none;
+  padding: 8px 16px;
+  margin: 0 20px;
+  border-radius: 4px;
+  background-color: white;
+  font-size: 14px;
+  overflow: auto;
+}
+
+.result__center {
+  display: block;
+  padding-bottom: 12px;
+  margin-bottom: 12px; 
+  font-weight: 400;
+}
+
+.result__detail {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.result__address {
+  display: block;
+  font-size: 18px;
+  color: #9b9999;
+}
+
+.coordinates {
+  display: none;
+}
+
+.result__map__link {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search__map {
+  display: none;
+  
+}
+
+@media screen{
+  button,
+  select {
+    font-size: 16px;
+    margin-left: 5px;
+  }
+
+   .search .container2 {
+    display: flex;
+  }
+
+  .search__main {
+    width: 100%;
+    padding:0px
+  }
+
+  .search__title {
+    width: auto;
+    margin: 0 20px 50px;
+    background-color: #343d46;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700px;
+  }
+ 
+  .search__form {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .search__option {
+    flex-direction: row;
+  }
+
+  .search__county  {
+    width: 100px;
+    margin: 0 8px 0 0;
+    }
+
+  .search__centreName  {
+    width: 400px;
+    margin: 0 36px 0 10px;
+  }
+
+  .search__button {
+    width: 60px;
+  }
+
+  .search__result {
+    height: 300px;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 400px;
+  }
+
+  .result__center {
+    font-size: 20px;
+    font-weight: 400px;
+  }
+
+  .result__detail {
+    flex-direction: row;
+  }
+
+  .result__map__link {
+    font-size: 18px;
+    font-weight: 400px;
+  }
+
+  .search__map {
+    display: block;
+    width: 300%;  
+    }
+    
+    .board {
+      width: 100%;
+      height: 100vh;
+      overflow-x: hidden;
+    }
+    
+    .board-section {
+      background-color: #343d46;
+      padding-top: 30px;
+      margin-top: 20px;
+      margin-right: 5%;     
+      width: 100%;    
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      border:5px solid white;
+      border-radius: 15px;   
+    }
+    
+    .board-section h2 {
+      color: aliceblue;
+      margin-bottom: 10px;
+     }
+    
+     img {
+      margin-bottom: 20px;
+     }
+    
+    .thread-section {
+      width: 70%;
+    }
+    
+    .thread-section .single-thread {
+      margin-bottom: 20px;
+      padding: 30px 20px;
+      border-radius: 5px;
+      background-color: azure;
+    
+    }
+    
+    .form-section {
+      background-color: azure;  
+      padding: 15px 100px;
+      margin-top: 15px;
+      margin-bottom: 30px;
+    }
+    
+    .input-section input {
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .input-section button {
+      padding: 3px 10px;
+    }
+    
+    .container {
+      background-color: aliceblue;
+      width: 70%;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+}

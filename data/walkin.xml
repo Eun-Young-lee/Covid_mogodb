@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<details>
+<county = "Carlow">
+<entry>
+<centre>Carlow Vaccination Centre</centre>
+<address>Woodford Dolmen Hotel, Kilkenny Road, Carlow, R93 N207</address>
+<lat>52.813991082663</lat>
+<lng>-6.951282572967986</lng>
+</entry>
+</county>
+
+<county = "Cavan">
+<entry>
+<centre>Cavan Vaccination Centre</centre>
+<address>Kilmore Hotel, Dublin Road, Killygarry, Cavan, H12 F6Y7</address>
+<lat>53.98670375381059</lat>
+<lng>-7.322325759284109</lng>
+</entry>
+</county>
+
+<county = "Clare">
+<entry>
+<centre>Ennis Vaccination Centre - West County Hotel</centre>
+<address>Limerick Road, Clonroad More, Ennis, Clare, V95 C9CT</address>
+<lat>52.832343304905706</lat>
+<lng>-8.981301239660255</lng>
+</entry>
+
+<entry>
+<centre>Ennis Hospital Vaccination Centre</centre>
+<address>Former Outpatients Department, Gort Road, Lifford, Ennis, Clare, V95 HN29</address>
+<lat>52.8523133250571</lat>
+<lng>-8.983185016399954</lng>
+</entry>
+</county>
+
+<county = "Cork">
+<entry>
+<centre>Cork Vaccination Centre - City Hall</centre>
+<address>City Hall, Anglesea Street, Cork City, Cork, T12T997</address>
+<lat>51.89821065629692</lat>
+<lng>-8.465810960640162</lng>
+</entry>
+<entry>
+<centre>Bantry Vaccination Centre</centre>
+<address>Bantry Primary Care Centre, Dromleigh South, Bantry, Cork, P75TE27</address>
+<lat>51.680701025221175</lat>
+<lng>-9.458614509496291</lng>
+</entry>
+</county>
+
+<county = "Donegal">
+<entry>
+<centre>Letterkenny Vaccination Centre</centre>
+<address>Letterkenny Business Park, Ballyraine, Letterkenny, Donegal, F92 FP83</address>
+<lat>54.961983350443866</lat>
+<lng>-7.713104354016752</lng>
+</entry>
+</county>
+
+<county = "Dublin">
+<entry>
+<centre>Citywest Vaccination Centre</centre>
+<address>LCitywest Hotel, Saggart, Dublin, D24 A38Y</address>
+<lat>53.44574137589638</lat>
+<lng>-6.52205604878421</lng>
+</entry>
+<entry>
+<centre>UCD Vaccination Centre (No walk-in clinics</centre>
+<address>Gerard Manley Hopkins Building, Access Via Stillorgan Road entrance, Belfield, Dublin 4, Dublin, D04 FX62</address>
+<lat>53.30759536755807</lat>
+<lng>-6.220631516083576</lng>
+</entry>
+<entry>
+<centre>Croke Park Vaccination Centre</centre>
+<address>Jonses Road, Dublin 3, Dublin, D03 P6K7</address>
+<lat>53.36410708010272</lat>
+<lng>-6.253119622498868</lng>
+</entry>
+<entry>
+<centre>Swords Vaccination Centre</centre>
+<address>National Show Centre, Stockhole Lane, Cloghran, Swords, Dublin, K67 VF43</address>
+<lat>53.44023091485116</lat>
+<lng>-6.222942255984131</lng>
+</entry>
+<entry>
+<centre>Richmond Barracks Vaccination Centre</centre>
+<address>St. Michael's Estate, Inchicore, Dublin, D08YY05</address>
+<lat>53.34030084033326</lat>
+<lng>-6.31558959310897</lng>
+</entry>
+</county>
+
+<county = "Galway">
+<entry>
+<centre>Galway Racecourse Vaccination Centre</centre>
+<address>Galway Racecourse, Ballybrit, Galway, H91 V654</address>
+<lat>53.30012733017115</lat>
+<lng>-8.994129738868631</lng>
+</entry>
+</county>
+
+<county = "Kerry">
+<entry>
+<centre>Kerry Vaccination Centre</centre>
+<address>Borg Warner, Monavalley, Tralee, Kerry, V92 HT21</address>
+<lat>52.28619168227489</lat>
+<lng>-9.708172939502147</lng>
+</entry>
+</county>
+
+<county = "Kildare">
+<entry>
+<centre>Kildare Vaccination Centre - Punchestown Racecourse</centre>
+<address>Naas, Kildare, W91 VCX4</address>
+<lat>53.18945465342081</lat>
+<lng>-6.628511655596615</lng>
+</entry>
+</county>
+
+<county = "Kilkenny">
+<entry>
+<centre>Kilkenny Vaccination Centre - Cillin Hill Conference Centre</centre>
+<address>Dublin Road, Lyrath, Leggettsrath, Kilkenny, R95 T294</address>
+<lat>52.65359078494042</lat>
+<lng>-7.210545836812304</lng>
+</entry>
+</county>
+
+<county = "Laois">
+<entry>
+<centre>Laois Vaccination Centre</centre>
+<address>St. Fintan's Campus, Stradbally Road, Portlaoise, Laois, R32XEN0</address>
+<lat> 53.03644323451104</lat>
+<lng>-7.284544386152236</lng>
+</entry>
+</county>
+
+<county = "Leitrim">
+<entry>
+<centre>Carrick on Shannon Vaccination Centre</centre>
+<address>Primary Care Centre, Carrick on Shannon, Leitrim, N41 W3F1</address>
+<lat>53.946950039245756</lat>
+<lng>-8.0921680272228487</lng>
+</entry>
+</county>
+
+<county = "Limerick">
+<entry>
+<centre>Limerick Vaccination Centre</centre>
+<address>Scoil Carmel, O'Connell Avenue, Limerick City, Limerick, V94 W3</address>
+<lat>52.65218528596682</lat>
+<lng>-8.636819885766554</lng>
+</entry>
+</county>
+
+<county = "Longford">
+<entry>
+<centre>Longford Vaccination Centre - Clonguish GAA Club</centre>
+<address>8 Railway Court, Lamagh, Newtownforbes, Longford, N39 A4E7</address>
+<lat>53.76317033590383</lat>
+<lng>-7.832824028593998</lng>
+</entry>
+</county>
+
+<county = "Louth">
+<entry>
+<centre>Dundalk Vaccination Centre - Fairways Hotel</centre>
+<address>Dublin Road, Haggardstown, Dundalk, Louth, A91 E6KC</address>
+<lat>53.97145692050759</lat>
+<lng>-6.385605342945855</lng>
+</entry>
+</county>
+
+<county = "Mayo">
+<entry>
+<centre>Breaffy House Resort Vaccination Centre</centre>
+<address>Breaghwy, Breaffy, Castlebar, Mayo, F23 TN97</address>
+<lat>53.84699091315971</lat>
+<lng>-9.236682596159929</lng>
+</entry>
+</county>
+
+<county = "Meath">
+<entry>
+<centre>Navan Vaccination Centre - Simonstown GAA Club</centre>
+<address>Proudstown Road, Navan, Meath, C15 N61X</address>
+<lat>53.67474479411687</lat>
+<lng>-6.679438822424588</lng>
+</entry>
+<entry>
+<centre>Fairyhouse Racecourse Vaccination Centre</centre>
+<address>Fairyhouse Road, Ratoath, Meath, A85 XK30</address>
+<lat>53.48553366158347</lat>
+<lng>-6.468163760226259</lng>
+</entry>
+</county>
+
+<county = "Monaghan">
+<entry>
+<centre>Monaghan Vaccination Centre - Glencarn Hotel</centre>
+<address>Monaghan Road, Moraghy, Castleblayney, Monaghan, A75 AP92</address>
+<lat>54.12395582679695</lat>
+<lng>-6.739587487265504</lng>
+</entry>
+</county>
+
+<county = "Offaly">
+<entry>
+<centre>Offaly Vaccination Centre</centre>
+<address>Mucklagh Community Centre, Mucklagh, Tullamore, Offaly, R35 DN02</address>
+<lat>53.25689604566155</lat>
+<lng>-7.541329939190592</lng>
+</entry>
+</county>
+
+<county = "Roscommon">
+<entry>
+<centre>Roscommon Vaccination Centre</centre>
+<address>Byron Hughes Building, Golf Links Road, Roscommon Town, Roscommon, F42 YX65</address>
+<lat>53.62934614775397</lat>
+<lng>-8.186043752327274</lng>
+</entry>
+</county>
+
+<county = "Sligo">
+<entry>
+<centre>Sligo Vaccination Centre</centre>
+<address>Sligo Racecourse, Cleveragh Road, Sligo Town, Sligo, F91 EE95</address>
+<lat>54.26426622362351</lat>
+<lng>-8.461185193037258</lng>
+</entry>
+</county>
+
+<county = "Tipperary">
+<entry>
+<centre>Nenagh Vaccination Centre</centre>
+<address>Abbeycourt Hotel, Dublin Road, Nenagh, Tipperary, E45 KA99</address>
+<lat>52.86708269217519</lat>
+<lng>-8.189058712509791</lng>
+</entry>
+<entry>
+<centre>Clonmel Vaccination Centre</centre>
+<address>Clonmel Park Hotel, Cahir Road, Clonmel, Tipperary, E91 X0N7</address>
+<lat>52.36013411487707</lat>
+<lng>-7.738759984433095</lng>
+</entry>
+</county>
+
+<county = "Waterford">
+<entry>
+<centre>Waterford Vaccination Centre - WIT Arena</centre>
+<address>WIT Sports Campus, Carriganore, Waterford, X91 XD96</address>
+<lat>52.253192942688834</lat>
+<lng>-7.180352614763541</lng>
+</entry>
+</county>
+
+<county = "Westmeath">
+<entry>
+<centre>Westmeath Community Vaccination Centre</centre>
+<address>Moate Youth and Community Sports Centre, Church Street, Moate, Westmeath, N37 KW60</address>
+<lat>53.39774687447456</lat>
+<lng>"-7.725325783612097</lng>
+</entry>
+</county>
+
+<county = "Wexford">
+<entry>
+<centre>Gorey Vaccination Centre</centre>
+<address>Kilanerin Community Centre, Kilanerin, Gorey, Wexford, Y25 P954</address>
+<lat>52.734768750736706</lat>
+<lng>-6.286300281678515</lng>
+</entry>
+<entry>
+<centre>Enniscorthy Vaccination Centre</centre>
+<address>Astro Active Centre, Bellefield, Enniscorthy, Wexford, Y21 W640</address>
+<lat>"52.5085891758311</lat>
+<lng>"-6.580047960601349</lng>
+</entry>
+</county>
+
+<county = "Wicklow">
+<entry>
+<centre>Greystones Vaccination Centre - Shoreline Leisure Centre</centre>
+<address>69 Mill Road, Killincarrig, Greystones, Wicklow, A63 HD25</address>
+<lat>53.13830121410034</lat>
+<lng>-6.065507824166525</lng>
+</entry>
+</county>
+
+</details>

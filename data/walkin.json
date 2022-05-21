@@ -1,0 +1,284 @@
+{
+   "data": [
+      {
+         "id": 1,
+         "county": "Carlow",
+         "centreName": "Carlow Vaccination Centre",
+         "address": "Woodford Dolmen Hotel, Kilkenny Road, Carlow, R93 N207",
+         "lat": "52.813991082663",
+         "lng": "-6.951282572967986"
+      },
+      {
+         "id": 2,
+         "county": "Cavan",
+         "centreName": "Cavan Vaccination Centre",
+         "address": "Kilmore Hotel, Dublin Road, Killygarry, Cavan, H12 F6Y7",
+         "lat": "53.98670375381059",
+         "lng": "-7.322325759284109"
+      },
+      {
+         "id": 3,
+         "county": "Clare",
+         "centreName": "Ennis Vaccination Centre - West County Hotel",
+         "address": "Limerick Road, Clonroad More, Ennis, Clare, V95 C9CT",
+         "lat": "52.832343304905706",
+         "lng": "-8.981301239660255"
+      },
+      {
+         "id": 4,
+         "county": "Clare",
+         "centreName": "Ennis Hospital Vaccination Centre",
+         "address": "Former Outpatients Department, Gort Road, Lifford, Ennis, Clare, V95 HN29",
+         "lat": "52.8523133250571",
+         "lng": "-8.983185016399954"
+      },
+      {
+         "id": 5,
+         "county": "Cork",
+         "centreName": "Cork Vaccination Centre - City Hall",
+         "address": "City Hall, Anglesea Street, Cork City, Cork, T12T997",
+         "lat": "51.89821065629692",
+         "lng": "-8.465810960640162"
+      },
+      {
+         "id": 6,
+         "county": "Cork",
+         "centreName": "Bantry Vaccination Centre",
+         "address": "Bantry Primary Care Centre, Dromleigh South, Bantry, Cork, P75TE27",
+         "lat": "51.680701025221175",
+         "lng": "-9.458614509496291"
+      },
+      {
+         "id": 7,
+         "county": "Donegal",
+         "centreName": "Letterkenny Vaccination Centre",
+         "address": "Letterkenny Business Park, Ballyraine, Letterkenny, Donegal, F92 FP83",
+         "lat": "54.961983350443866",
+         "lng": "-7.713104354016752"
+      },
+      {
+         "id": 8,
+         "county": "Dublin",
+         "centreName": "Citywest Vaccination Centre",
+         "address": "LCitywest Hotel, Saggart, Dublin, D24 A38Y",
+         "lat": "53.44574137589638",
+         "lng": "-6.52205604878421"
+      },
+      {
+         "id": 9,
+         "county": "Dublin",
+         "centreName": "UCD Vaccination Centre (No walk-in clinics)",
+         "address": "Gerard Manley Hopkins Building, Access Via Stillorgan Road entrance, Belfield, Dublin 4, Dublin, D04 FX62",
+         "lat": "53.30759536755807",
+         "lng": "-6.220631516083576"
+      },
+      {
+         "id": 10,
+         "county": "Dublin",
+         "centreName": "Croke Park Vaccination Centre",
+         "address": "Jonses Road, Dublin 3, Dublin, D03 P6K7",
+         "lat": "53.36410708010272",
+         "lng": "-6.253119622498868"
+      },
+      {
+         "id": 11,
+         "county": "Dublin",
+         "centreName": "Swords Vaccination Centre",
+         "address": "National Show Centre, Stockhole Lane, Cloghran, Swords, Dublin, K67 VF43",
+         "lat": "53.44023091485116",
+         "lng": "-6.222942255984131"
+      },
+      {
+         "id": 12,
+         "county": "Dublin",
+         "centreName": "Richmond Barracks Vaccination Centre",
+         "address": "St. Michael's Estate, Inchicore, Dublin, D08YY05",
+         "lat": "53.34030084033326",
+         "lng": "-6.31558959310897"
+      },
+      {
+         "id": 13,
+         "county": "Galway",
+         "centreName": "Galway Racecourse Vaccination Centre",
+         "address": "Galway Racecourse, Ballybrit, Galway, H91 V654",
+         "lat": "53.30012733017115",
+         "lng": "-8.994129738868631"
+      },
+      {
+         "id": 14,
+         "county": "Kerry",
+         "centreName": "Kerry Vaccination Centre",
+         "address": "Borg Warner, Monavalley, Tralee, Kerry, V92 HT21",
+         "lat": "52.28619168227489",
+         "lng": "-9.708172939502147"
+      },
+      {
+         "id": 15,
+         "county": "Kildare",
+         "centreName": "Kildare Vaccination Centre - Punchestown Racecourse",
+         "address": "Naas, Kildare, W91 VCX4",
+         "lat": "53.18945465342081",
+         "lng": "-6.628511655596615"
+      },
+      {
+         "id": 16,
+         "county": "Kilkenny",
+         "centreName": "Kilkenny Vaccination Centre - Cillin Hill Conference Centre",
+         "address": "Dublin Road, Lyrath, Leggettsrath, Kilkenny, R95 T294",
+         "lat": "52.65359078494042",
+         "lng": "-7.210545836812304"
+      },
+      {
+         "id": 17,
+         "county": "Laois",
+         "centreName": "Laois Vaccination Centre",
+         "address": "St. Fintan's Campus, Stradbally Road, Portlaoise, Laois, R32XEN0",
+         "lat": "53.03644323451104",
+         "lng": "-7.284544386152236"
+      },
+      {
+         "id": 18,
+         "county": "Leitrim",
+         "centreName": "Carrick on Shannon Vaccination Centre",
+         "address": "Primary Care Centre, Carrick on Shannon, Leitrim, N41 W3F1",
+         "lat": "53.946950039245756",
+         "lng": "-8.0921680272228487"
+      },
+      {
+         "id": 19,
+         "county": "Limerick",
+         "centreName": "Limerick Vaccination Centre",
+         "address": "Scoil Carmel, O'Connell Avenue, Limerick City, Limerick, V94 W3",
+         "lat": "52.65218528596682",
+         "lng": "-8.636819885766554"
+      },
+      {
+         "id": 20,
+         "county": "Longford",
+         "centreName": "Longford Vaccination Centre - Clonguish GAA Club",
+         "address": "8 Railway Court, Lamagh, Newtownforbes, Longford, N39 A4E7",
+         "lat": "53.76317033590383",
+         "lng": "-7.832824028593998"
+      },
+      {
+         "id": 21,
+         "county": "Louth",
+         "centreName": "Dundalk Vaccination Centre - Fairways Hotel",
+         "address": "Dublin Road, Haggardstown, Dundalk, Louth, A91 E6KC",
+         "lat": "53.97145692050759",
+         "lng": "-6.385605342945855"
+      },
+      {
+         "id": 22,
+         "county": "Mayo",
+         "centreName": "Breaffy House Resort Vaccination Centre",
+         "address": "Breaghwy, Breaffy, Castlebar, Mayo, F23 TN97",
+         "lat": "53.84699091315971",
+         "lng": "-9.236682596159929"
+      },
+      {
+         "id": 23,
+         "county": "Meath",
+         "centreName": "Navan Vaccination Centre - Simonstown GAA Club",
+         "address": "Proudstown Road, Navan, Meath, C15 N61X",
+         "lat": "53.67474479411687",
+         "lng": "-6.679438822424588"
+      },
+      {
+         "id": 24,
+         "county": "Meath",
+         "centreName": "Fairyhouse Racecourse Vaccination Centre",
+         "address": "Fairyhouse Road, Ratoath, Meath, A85 XK30",
+         "lat": "53.48553366158347",
+         "lng": "-6.468163760226259"
+      },
+      {
+         "id": 25,
+         "county": "Monaghan",
+         "centreName": "Monaghan Vaccination Centre - Glencarn Hotel",
+         "address": "Monaghan Road, Moraghy, Castleblayney, Monaghan, A75 AP92",
+         "lat": "54.12395582679695",
+         "lng": "-6.739587487265504"
+      },
+      {
+         "id": 26,
+         "county": "Offaly",
+         "centreName": "Offaly Vaccination Centre",
+         "address": "Mucklagh Community Centre, Mucklagh, Tullamore, Offaly, R35 DN02",
+         "lat": "53.25689604566155",
+         "lng": "-7.541329939190592"
+      },
+      {
+         "id": 27,
+         "county": "Roscommon",
+         "centreName": "Roscommon Vaccination Centre",
+         "address": "Byron Hughes Building, Golf Links Road, Roscommon Town, Roscommon, F42 YX65",
+         "lat": "53.62934614775397",
+         "lng": "-8.186043752327274"
+      },
+      {
+         "id": 28,
+         "county": "Sligo",
+         "centreName": "Sligo Vaccination Centre",
+         "address": "Sligo Racecourse, Cleveragh Road, Sligo Town, Sligo, F91 EE95",
+         "lat": "54.26426622362351",
+         "lng": "-8.461185193037258"
+      },
+      {
+         "id": 29,
+         "county": "Tipperary",
+         "centreName": "Nenagh Vaccination Centre",
+         "address": "Abbeycourt Hotel, Dublin Road, Nenagh, Tipperary, E45 KA99",
+         "lat": "52.86708269217519",
+         "lng": "-8.189058712509791"
+      },
+      {
+         "id": 30,
+         "county": "Tipperary",
+         "centreName": "Clonmel Vaccination Centre",
+         "address": "Clonmel Park Hotel, Cahir Road, Clonmel, Tipperary, E91 X0N7",
+         "lat": "52.36013411487707",
+         "lng": "-7.738759984433095"
+      },
+      {
+         "id": 31,
+         "county": "Waterford",
+         "centreName": "Waterford Vaccination Centre - WIT Arena",
+         "address": "WIT Sports Campus, Carriganore, Waterford, X91 XD96",
+         "lat": "52.253192942688834",
+         "lng": "-7.180352614763541"
+      },
+      {
+         "id": 32,
+         "county": "Westmeath",
+         "centreName": "Westmeath Community Vaccination Centre",
+         "address": "Moate Youth and Community Sports Centre, Church Street, Moate, Westmeath, N37 KW60",
+         "lat": "53.39774687447456",
+         "lng": "\"-7.725325783612097"
+      },
+      {
+         "id": 33,
+         "county": "Wexford",
+         "centreName": "Gorey Vaccination Centre",
+         "address": "Kilanerin Community Centre, Kilanerin, Gorey, Wexford, Y25 P954",
+         "lat": "52.734768750736706",
+         "lng": "-6.286300281678515"
+      },
+      {
+         "id": 34,
+         "county": "Wexford",
+         "centreName": "Enniscorthy Vaccination Centre",
+         "address": "Astro Active Centre, Bellefield, Enniscorthy, Wexford, Y21 W640",
+         "lat": "52.5085891758311",
+         "lng": "-6.580047960601349"
+      },
+      {
+         "id": 35,
+         "county": "Wicklow",
+         "centreName": "Greystones Vaccination Centre - Shoreline Leisure Centre",
+         "address": "69 Mill Road, Killincarrig, Greystones, Wicklow, A63 HD25",
+         "lat": "53.13830121410034",
+         "lng": "-6.065507824166525"
+      }
+   ]
+}
