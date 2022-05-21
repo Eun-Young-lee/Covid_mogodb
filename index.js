@@ -206,6 +206,7 @@ function init() {
   loadData();
   reloadMap();
 }
+init();
 
 const threadSectionDOM = document.querySelector('.thread-section');
 
@@ -270,5 +271,3 @@ formDOM.addEventListener('submit', async (e) => {
     }
   }
 });
-
-init();
